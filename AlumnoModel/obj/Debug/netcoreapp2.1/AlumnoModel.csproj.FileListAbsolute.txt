@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\bin\Debug\netcoreapp2.1\AlumnoModel.deps.json
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\bin\Debug\netcoreapp2.1\AlumnoModel.dll
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\bin\Debug\netcoreapp2.1\AlumnoModel.pdb
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.AssemblyInfo.cs
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.dll
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.pdb
+C:\Users\Home\source\repos\Tarea_ArqComp\AlumnoModel\obj\Debug\netcoreapp2.1\AlumnoModel.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\bin\Debug\netcoreapp2.1\CatedraticoModel.deps.json
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\bin\Debug\netcoreapp2.1\CatedraticoModel.dll
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\bin\Debug\netcoreapp2.1\CatedraticoModel.pdb
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.AssemblyInfo.cs
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.dll
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.pdb
+C:\Users\Home\source\repos\Tarea_ArqComp\CatedraticoModel\obj\Debug\netcoreapp2.1\CatedraticoModel.csproj.AssemblyReference.cache
